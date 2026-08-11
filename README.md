@@ -1,2 +1,2 @@
 # SY26-27
-not that
+This is my portfolio for python
